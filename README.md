@@ -10,7 +10,7 @@ Deploy the project using GitHub Pages, Netlify, or Vercel.
 > A responsive website for MediCare Hospital with three pages (Home, About, Contact).
 
 ## **Live Demo**
-👉 [Open Live Site]( )
+👉 [Open Live Site]( https://github.com/PLP-WebTechnologies/feb-2025-final-project-and-deployment-SisionKitiyio.git)
 
 ## **Features**
 - Responsive design using CSS Flexbox/Grid
@@ -25,7 +25,7 @@ Deploy the project using GitHub Pages, Netlify, or Vercel.
 
 ## **How to Run Locally**
 bash
-git clone 
+git clone https://github.com/PLP-WebTechnologies/feb-2025-final-project-and-deployment-SisionKitiyio.git
 cd hospital-management-system
 # Open index.html in a browser
 
