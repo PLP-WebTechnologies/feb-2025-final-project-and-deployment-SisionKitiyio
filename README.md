@@ -26,7 +26,7 @@ Deploy the project using GitHub Pages, Netlify, or Vercel.
 ## **How to Run Locally**
 bash
 git clone https://github.com/PLP-WebTechnologies/feb-2025-final-project-and-deployment-SisionKitiyio.git
-cd hospital-management-system
+cd feb-2025-final-project-and-deployment-SisionKitiyio
 # Open index.html in a browser
 
 
