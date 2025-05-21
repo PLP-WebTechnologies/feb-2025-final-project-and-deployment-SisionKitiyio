@@ -5,21 +5,42 @@ Build a fully functional web application.
 Apply HTML, CSS, and JavaScript concepts learned.
 Deploy the project using GitHub Pages, Netlify, or Vercel.
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+# 🏥 Hospital Management System
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+> A responsive website for MediCare Hospital with three pages (Home, About, Contact).
 
-## Tasks
+## **Live Demo**
+👉 [Open Live Site]( )
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
+## **Features**
+- Responsive design using CSS Flexbox/Grid
+- Interactive testimonial slider (JavaScript)
+- Form validation for contact page
+- Google Maps location embed
 
-Good luck and happy coding! 🚀💻
+## **Technologies**
+- HTML5 (semantic tags)
+- CSS3 (variables, media queries)
+- JavaScript (ES6)
+
+## **How to Run Locally**
+bash
+git clone 
+cd hospital-management-system
+# Open index.html in a browser
+
+
+## **Folder Structure**
+
+hospital-management/
+├── index.html
+├── about.html
+├── contact.html
+└── style.css
+└── script.js
+├── images/
+└── README.md
+
+
+## **License**
+MIT © Your Name
